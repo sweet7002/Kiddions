@@ -12,3 +12,14 @@ Default keys include:
 <Numpad 4> and <Numpad 6> to decrease/increase the current value.
 <Numpad 5> to activate an option, toggle its value or applying any changed setting.
 
+
+FAQ: 
+
+"Why does the installer open Command Prompt during the installation?"
+
+Kiddion is placing the essential files into your Grand Theft Auto directory, you can simply close Command Prompt once the installation is complete.
+
+"Why does Windows Defender say this is a virus?"
+
+This mod is looking for key-presses (to navigate the menu) and is reading/writing to the memory of another process and some AV are nervous about that.
+This mod has been manually reviewed thoroughly by a forum's file moderator and is considered safe, otherwise it wouldn't have been approved.
